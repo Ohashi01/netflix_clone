@@ -1,3 +1,5 @@
 # netflix_clone
 
-Project made with React, using hooks( useState and useEffect ) and using API from ThemovieDB
+Projeto desenvolvido com React, usando hooks ( useState e useEffect ) e a API do site ThemovieDb
+
+Project made with React, using hooks( useState and useEffect ) and using API from ThemovieDb website
