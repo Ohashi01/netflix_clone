@@ -1,3 +1,4 @@
 # netflix_clone
 
-built using React
+Project made with React, using hooks( useState and useEffect );
+
